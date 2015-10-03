@@ -1,0 +1,70 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "menu1",
+			"type": "image",
+			"url": "assets/_Menu1.png"
+		},
+		{
+			"name": "menu2",
+			"type": "image",
+			"url": "assets/_Menu2.png"
+		},
+		{
+			"name": "menu3",
+			"type": "image",
+			"url": "assets/_Menu3.png"
+		},
+		{
+			"name": "menu4",
+			"type": "image",
+			"url": "assets/_Menu4.png"
+		},
+		{
+			"name": "menu5",
+			"type": "image",
+			"url": "assets/_Menu5.png"
+		},
+		{
+			"name": "menu6",
+			"type": "image",
+			"url": "assets/_Menu6.png"
+		},
+		{
+			"name": "main",
+			"type": "image",
+			"url": "assets/Main.png"
+		},
+		{
+			"name": "black",
+			"type": "image",
+			"url": "assets/Black.png"
+		},
+		{
+			"name": "white",
+			"type": "image",
+			"url": "assets/White.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bgImage,egretIcon,menu1,menu2,menu3,menu4,menu5,menu6,main,black,white"
+		}
+	]
+}
